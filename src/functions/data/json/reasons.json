@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Commercial Content",
+		"sublabel": "e.g. marketing or advertising of products or services to users on our Services"
+	},
+	{
+		"name": "Illegal or Harmful Speech",
+		"sublabel": "e.g. discrimination and hate speech"
+	},
+	{
+		"name": "Intellectual Property Infringement",
+		"sublabel": "e.g. copyright infringement"
+	},
+	{
+		"name": "Non-consensual Behavior",
+		"sublabel": "e.g. non-consensual image sharing and online bullying/intimidation"
+	},
+	{
+		"name": "Pornography or Sexualized Content",
+		"sublabel": "e.g. adult sexual material and image-based sexual abuse (excluding content depicting minors)"
+	},
+	{
+		"name": "Privacy Violations",
+		"sublabel": "e.g. the unauthorized disclosure of personal data"
+	},
+	{
+		"name": "Protection of Minors",
+		"sublabel": "e.g. child sexual abuse material"
+	},
+	{
+		"name": "Self-harm",
+		"sublabel": "e.g. suicide"
+	},
+	{
+		"name": "Terrorist Content",
+		"sublabel": "e.g. content that promotes violent extremist activities/beliefs or terrorism"
+	}
+]

@@ -1,0 +1,140 @@
+[
+	{
+		"name": "Bartleby",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad6c8cbebaa2dd1e897_bartleby-icon.svg",
+		"url": "https://www.bartleby.com/"
+	},
+	{
+		"name": "CliffsNotes",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad762c637e0a3785b69_cliffsnotes-icon.svg",
+		"url": "https://www.cliffsnotes.com/"
+	},
+	{
+		"name": "College Sidekick",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad6ccacf96de3afe789_college-sidekick-icon.svg",
+		"url": "https://www.collegesidekick.com/"
+	},
+	{
+		"name": "Course Hero",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad65698bebc8c6d16bf_course-hero-icon.svg",
+		"url": "https://www.coursehero.com/"
+	},
+	{
+		"name": "Course Sidekick",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad63668a8e73249cabe_course-sidekick-icon.svg",
+		"url": "https://www.coursesidekick.com/"
+	},
+	{
+		"name": "LanguageTool",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65d50858c377e156eb53ce26_languagetool.svg",
+		"url": "https://www.languagetool.org/"
+	},
+	{
+		"name": "Nursing Hero",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad679ecd17e489dae35_nursing-hero-icon.svg",
+		"url": "https://www.nursinghero.com/"
+	},
+	{
+		"name": "QuillBot",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad6910219fb886f4260_quillbot-icon.svg",
+		"url": "https://www.quillbot.com/"
+	},
+	{
+		"name": "Scribbr",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad720d8e19d27dcf02e_scribbr-icon.svg",
+		"url": "https://www.scribbr.com/"
+	},
+	{
+		"name": "Symbolab",
+		"icon": "https://uploads-ssl.webflow.com/63f8af5313455948ec74231c/65b00ad666281f4337bc90a1_symbolab-icon.svg",
+		"url": "https://www.symbolab.com/"
+	},
+	{
+		"name": "123HelpMe",
+		"url": "https://www.123helpme.com/"
+	},
+	{
+		"name": "Anti Essays",
+		"url": "https://www.antiessays.com/"
+	},
+	{
+		"name": "Article Checker",
+		"url": "https://www.articlechecker.com/"
+	},
+	{
+		"name": "Brainia",
+		"url": "https://www.brainia.com/"
+	},
+	{
+		"name": "Buenas Tareas",
+		"url": "https://www.buenastareas.com/"
+	},
+	{
+		"name": "Cram",
+		"url": "https://www.cram.com/"
+	},
+	{
+		"name": "Cyber Essays",
+		"url": "https://www.cyberessays.com/"
+	},
+	{
+		"name": "Education Index",
+		"url": "https://www.educationindex.net/"
+	},
+	{
+		"name": "Essay Depot",
+		"url": "https://www.essaydepot.com/"
+	},
+	{
+		"name": "Etudier",
+		"url": "https://www.etudier.com/"
+	},
+	{
+		"name": "IPL",
+		"url": "https://www.ipl.org/"
+	},
+	{
+		"name": "MajorTests",
+		"url": "https://www.majortests.com/"
+	},
+	{
+		"name": "Memorizar",
+		"url": "https://www.memorizar.com/"
+	},
+	{
+		"name": "Mireferat",
+		"url": "http://www.mireferat.com/"
+	},
+	{
+		"name": "Monografias",
+		"url": "https://www.monografias.com/"
+	},
+	{
+		"name": "PlagiarismChecker",
+		"url": "https://www.plagiarismchecker.com/"
+	},
+	{
+		"name": "PaperCamp",
+		"url": "https://www.papercamp.com/"
+	},
+	{
+		"name": "PaperRater",
+		"url": "https://www.paperrater.com/"
+	},
+	{
+		"name": "StudyMode",
+		"url": "https://www.studymode.com/"
+	},
+	{
+		"name": "TermPaperWarehouse",
+		"url": "https://www.termpaperwarehouse.com/"
+	},
+	{
+		"name": "Trabalhos Feitos",
+		"url": "https://www.trabalhosfeitos.com/"
+	},
+	{
+		"name": "WriteWork",
+		"url": "https://www.writework.com/"
+	}
+]
