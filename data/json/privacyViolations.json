@@ -1,0 +1,9 @@
+[
+	{ "name": "Address" },
+	{ "name": "Email" },
+	{ "name": "Financial Information" },
+	{ "name": "Health Information" },
+	{ "name": "Name" },
+	{ "name": "Phone Number" },
+	{ "name": "Other" }
+]

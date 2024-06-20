@@ -8,7 +8,7 @@
 		"sublabel": "e.g. discrimination and hate speech"
 	},
 	{
-		"name": "Copyright; other IP Infringement",
+		"name": "Intellectual Property Infringement",
 		"sublabel": "e.g. copyright infringement"
 	},
 	{
@@ -34,5 +34,9 @@
 	{
 		"name": "Terrorist Content",
 		"sublabel": "e.g. content that promotes violent extremist activities/beliefs or terrorism"
+	},
+	{
+		"name": "Other",
+		"sublabel": "e.g. other content that violates an individual’s rights"
 	}
 ]

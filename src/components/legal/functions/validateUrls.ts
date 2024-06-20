@@ -37,6 +37,24 @@ export default function validateUrls(
 			currentBlock.privacy_types_error = true;
 		}
 
+
+		if (block.path_error) {
+			currentBlock.path_error_message = block.path_error_message;
+			currentBlock.path_error = block.path_error;
+			valid = false;
+		}
+
+		if (block.detail_error) {
+			currentBlock.detail_error_message = block.detail_error_message;
+			currentBlock.detail_error = block.detail_error;
+			valid = false;
+		}
+
+		if (block.privacy_types_error) {
+			currentBlock.privacy_types_error = block.privacy_types_error;
+			valid = false;
+		}
+
 		return currentBlock;
 	});
 

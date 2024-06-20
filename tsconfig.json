@@ -1,38 +1,38 @@
 {
-	"compilerOptions": {
-		"target": "es5",
-		"useDefineForClassFields": true,
-		"module": "ESNext",
-		"lib": ["ES2020", "DOM", "DOM.Iterable"],
-		"skipLibCheck": true,
+  "compilerOptions": {
+    "target": "es5",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "skipLibCheck": true,
 
-		/* React */
-		"jsx": "react-jsx",
+    /* React */
+    "jsx": "react-jsx",
 
-		/* Bundler mode */
-		"moduleResolution": "Bundler",
-		"allowImportingTsExtensions": true,
-		"resolveJsonModule": true,
-		"isolatedModules": true,
-		"noEmit": true,
-		"allowJs": true,
-		"noImplicitAny": true,
+    /* Bundler mode */
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "allowJs": true,
+    "noImplicitAny": true,
 
-		/* Linting */
-		"strict": true,
-		"noUnusedLocals": true,
-		"noUnusedParameters": true,
-		"noFallthroughCasesInSwitch": true,
-		"typeRoots": ["node_modules/@types", "types"],
-		"baseUrl": ".",
-		"paths": {
-			"@types": ["types"],
-			"@components/*": ["src/components/*"],
-			"@pages/*": ["src/pages/*"],
-			"@styles/*": ["src/styles/*"],
-			"@plugins/*": ["src/plugins/*"],
-			"@functions/*": ["src/functions/*"]
-		}
-	},
-	"include": ["src/**/*"]
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "typeRoots": ["node_modules/@types", "types"],
+    "baseUrl": ".",
+    "paths": {
+      "@types": ["types"],
+      "@components/*": ["src/components/*"],
+      "@pages/*": ["src/pages/*"],
+      "@styles/*": ["src/styles/*"],
+      "@plugins/*": ["src/plugins/*"],
+      "@functions/*": ["src/functions/*"]
+    }
+  },
+  "include": ["src/**/*"]
 }

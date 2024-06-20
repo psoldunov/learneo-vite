@@ -5,6 +5,8 @@ export default function articlePage() {
 		'[data-url-share-button]'
 	)!;
 
+	if (!urlShareButton) return;
+
 	const copyTooltip: HTMLElement = urlShareButton.querySelector(
 		'.share-button_url-copied'
 	)!;

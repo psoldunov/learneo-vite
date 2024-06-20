@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import {
 	getPrivacyViolations,
 	getBusinesses,
@@ -46,10 +46,7 @@ export default function ReportedContent({
 					path: '',
 					detail: '',
 					detail_required:
-						reason.value === 'Other' ||
-						reason.value === 'Intellectual Property Infringement'
-							? true
-							: false,
+						reason.value === 'Copyright; other IP Infringement' ? true : false,
 					path_error: false,
 					detail_error: false,
 					privacy_types_error: false,
@@ -192,10 +189,7 @@ export default function ReportedContent({
 			});
 		}
 
-		if (
-			reason.value === 'Other' ||
-			reason.value === 'Intellectual Property Infringement'
-		) {
+		if (reason.value === 'Copyright; other IP Infringement') {
 			// urls.updateField({
 			// 	detail_required: true,
 			// });
@@ -208,15 +202,9 @@ export default function ReportedContent({
 				}),
 			});
 
-			if (reason.value === 'Other') {
-				setDetailTitle(
-					'Provide details as to why you believe the content is illegal'
-				);
-			} else {
-				setDetailTitle(
-					'Please provide any additional information to assist in locating and identifying the reported content'
-				);
-			}
+			setDetailTitle(
+				'Please provide any additional information to assist in locating and identifying the reported content'
+			);
 		} else {
 			// urls.updateField({
 			// 	detail_required: false,

@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import { DropdownIcon } from '../icons';
 import { ReportFormField, Violation, ReportUrlBlock } from 'types';
 
